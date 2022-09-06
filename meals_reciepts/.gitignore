@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 ../.idea/
 .gitignore/
 .settings/
+=======
+meals_reciepts/__pycache__/urls.cpython-310.pyc
+meals_reciepts/__pycache__/wsgi.cpython-310.pyc
+db.sqlite3
+reciepts/__pycache__/
+reciepts/migrations/0001_initial.py
+reciepts/migrations/__pycache__/
+meals_reciepts/__pycache__/__init__.cpython-310.pyc
+meals_reciepts/__pycache__/settings.cpython-310.pyc
+>>>>>>> ba9553800850bfa704acd9aa976b85cb2996cb54

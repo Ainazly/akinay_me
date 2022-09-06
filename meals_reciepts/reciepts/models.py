@@ -11,3 +11,9 @@ class Menu(models.Model):
         return f"{self.description} {self.meal_name}"
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> ba9553800850bfa704acd9aa976b85cb2996cb54

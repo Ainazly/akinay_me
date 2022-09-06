@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+<<<<<<< HEAD
 
+=======
+>>>>>>> ba9553800850bfa704acd9aa976b85cb2996cb54
 
 urlpatterns = [
     path('', include('reciepts.urls')),
